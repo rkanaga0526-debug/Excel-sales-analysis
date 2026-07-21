@@ -1,13 +1,13 @@
 # Excel-sales-analysis
 A comprehensive sales analytics dashboard built in Microsoft Excel to analyze Swiggy order data, customer ratings, restaurant performance, and revenue trends for data-driven decision-making.
 
-# 🍔 Swiggy Sales Analysis Dashboard
+# Swiggy Sales Analysis Dashboard
 
 An interactive sales analytics dashboard built using **Microsoft Excel** to analyze Swiggy order data, customer ratings, restaurant performance, and sales trends.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
@@ -21,7 +21,7 @@ An interactive sales analytics dashboard built using **Microsoft Excel** to anal
 
 This project analyzes Swiggy food delivery data to uncover sales trends, customer ratings, restaurant performance, and ordering patterns. The dashboard helps transform raw data into actionable business insights through interactive visualizations.
 
-⬆️ [Back to Top](#-swiggy-sales-analysis-dashboard)
+ [Back to Top](#-swiggy-sales-analysis-dashboard)
 
 ---
 
@@ -39,7 +39,7 @@ The dataset contains over **197,000 food orders** with information including:
 - Customer Rating
 - Rating Count
 
-⬆️ [Back to Top](#-swiggy-sales-analysis-dashboard)
+ [Back to Top](#-swiggy-sales-analysis-dashboard)
 
 ---
 
@@ -59,7 +59,7 @@ The dashboard provides insights into:
 - 🥗 Category-wise Analysis
 - 📍 State & City-wise Sales
 
-⬆️ [Back to Top](#-swiggy-sales-analysis-dashboard)
+ [Back to Top](#-swiggy-sales-analysis-dashboard)
 
 ---
 
@@ -71,7 +71,7 @@ The dashboard provides insights into:
 - 📊 Rating Count
 - 💵 Average Order Value
 
-⬆️ [Back to Top](#-swiggy-sales-analysis-dashboard)
+ [Back to Top](#-swiggy-sales-analysis-dashboard)
 
 ---
 
